@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+<title id="title">LZ7 Development</title><desc id="desc">Scripts. Bots. Systems. Development for connected communities.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1420"/><stop offset="1" stop-color="#071015"/></linearGradient><linearGradient id="accent"><stop stop-color="#5fffe1"/><stop offset="1" stop-color="#39b8f8"/></linearGradient><pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#7acfd0" stroke-opacity=".065"/></pattern></defs>
+<rect width="1280" height="420" rx="24" fill="url(#bg)"/><rect width="1280" height="420" rx="24" fill="url(#grid)"/>
+<path d="M930-80 650 500M1100-80 820 500M1270-80 990 500" stroke="#69fbe0" stroke-opacity=".07" stroke-width="60"/>
+<rect x="56" y="52" width="5" height="22" rx="2" fill="#5fffe1"/><text x="77" y="69" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="4" fill="#a7c0c7">LZ7 DEVELOPMENT</text>
+<text x="52" y="225" font-family="Arial,Helvetica,sans-serif" font-size="150" font-weight="900" letter-spacing="-9" fill="#f3fbff">LZ<tspan fill="url(#accent)">7</tspan><tspan font-size="65" letter-spacing="0" fill="#5fffe1"> /</tspan></text>
+<text x="61" y="280" font-family="Arial,Helvetica,sans-serif" font-size="29" font-weight="600" fill="#e3edf0">Scripts. Bots. Systems.</text><text x="62" y="318" font-family="Arial,Helvetica,sans-serif" font-size="18" fill="#8fa8b1">Development for connected communities.</text>
+<g transform="translate(908 104)" fill="none" stroke="url(#accent)" stroke-width="9" stroke-linecap="square" stroke-linejoin="miter"><path d="m42 39-42 62 42 62M155 39l42 62-42 62M121 3 77 199"/></g>
+<path d="M61 366H1219" stroke="#21323e"/><text x="62" y="391" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="3" fill="#6f949f">FIVEM / DISCORD / CUSTOM DEVELOPMENT</text></svg>
